@@ -2,4 +2,4 @@
 
 Example of a website created based on wireframes provided by RedStamp Agency
 
-This site was created using Bootstrap 4 and all Bower components have been included.
+This site was created using Bootstrap 4 and all Bower components must be installed as file is too big to upload here. :)
